@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buy-ticket/buy-ticket.iml" filepath="$PROJECT_DIR$/buy-ticket/buy-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/depencies/depencies.iml" filepath="$PROJECT_DIR$/depencies/depencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sell-ticket.iml" filepath="$PROJECT_DIR$/.idea/sell-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket-comsumer/ticket-comsumer.iml" filepath="$PROJECT_DIR$/ticket-comsumer/ticket-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket-provider/ticket-provider.iml" filepath="$PROJECT_DIR$/ticket-provider/ticket-provider.iml" />
+    </modules>
+  </component>
+</project>

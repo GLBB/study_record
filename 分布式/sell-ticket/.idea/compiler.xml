@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="buy-ticket" />
+        <module name="eureka-server" />
+        <module name="ticket-comsumer" />
+        <module name="ticket-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buy-ticket" target="11" />
+      <module name="depencies" target="11" />
+      <module name="eureka-server" target="11" />
+      <module name="ticket-comsumer" target="11" />
+      <module name="ticket-provider" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
